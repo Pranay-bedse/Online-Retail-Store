@@ -1,4 +1,4 @@
-# Unsupervised Machine Learning Project.
+# Unsupervised Machine Learning Project:
 * In this project, I have worked on Online Retail Dataset.
 * To group the data according to the similarity they have.
 * To create a different marketing strategy for different customer groups.
